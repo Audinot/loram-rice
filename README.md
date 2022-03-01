@@ -18,14 +18,14 @@ Manjaro does not have the same focus.
 
 ### You will need:
 
-[x] Any Raspberry Pi, but this guide assumes you are using RPi02w.
-[x] A monitor. Although you can run a headless RPi, this guide is about desktops!
-[x] A keyboard.
-[x] Cables: HDMI, keyboard, power, and miniUSB-to-USB if required.
+- [x] Any Raspberry Pi, but this guide assumes you are using RPi02w.
+- [x] A monitor. Although you can run a headless RPi, this guide is about desktops!
+- [x] A keyboard.
+- [x] Cables: HDMI, keyboard, power, and miniUSB-to-USB if required.
 
 ### You will not need:
 
-[ ] A mouse. It's optional and this guide assumes you don't use one.
+- [ ] A mouse. It's optional and this guide assumes you don't use one.
 
 ## Part I - Install Arch Linux ARM
 
@@ -210,10 +210,10 @@ Reboot and log in again, and it will be a lot better!
 
 This guide is incomplete. More to come:
 
-[ ] Setting up wi-fi
-[ ] Installing Sway
-[ ] Basic setup: using Sway with Alacritty and removing any need for the mouse
-[ ] Using ZRAM for a boost
-[ ] Customizing the looks
+- [ ] Setting up wi-fi
+- [ ] Installing Sway
+- [ ] Basic setup: using Sway with Alacritty and removing any need for the mouse
+- [ ] Using ZRAM for a boost
+- [ ] Customizing the looks
 
 
