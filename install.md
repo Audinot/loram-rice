@@ -1,9 +1,10 @@
 ---
-Title: Installing Arch
+title: Installing Arch
 layout: default
 ---
 
 ## Chapter 1 - Install Arch Linux ARM
+---
 
 To start, [follow the Wiki guide for AArch64 installation.](https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-zero-2)
 
@@ -182,14 +183,8 @@ sudo systemctl mask systemd-journald-audit.socket
 
 Reboot and log in again, and it will be a lot better!
 
-## Next steps
+---
 
-This guide is incomplete. More to come:
-
-- [ ] Setting up wi-fi
-- [ ] Installing Sway
-- [ ] Basic setup: using Sway with Alacritty and removing any need for the mouse
-- [ ] Using ZRAM for a boost
-- [ ] Customizing the looks
+[Chapter 2 ~ Network connection](./network.md)
 
 

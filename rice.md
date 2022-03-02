@@ -26,18 +26,18 @@ Manjaro does not have the same focus.
 
 You will need:
 
-- Any Raspberry Pi, but this guide assumes you are using RPi02w.
-- A monitor. Although you can run a headless RPi, this guide is about desktops!
-- A keyboard.
-- Cables: HDMI, keyboard, power, and miniUSB-to-USB if required.
+- [x] Any Raspberry Pi, but this guide assumes you are using RPi02w.
+- [x] A monitor. Although you can run a headless RPi, this guide is about desktops!
+- [x] A keyboard.
+- [x] Cables: HDMI, keyboard, power, and miniUSB-to-USB if required.
 
 You will not need:
 
-- A mouse. It's optional and this guide assumes you don't use one.
+- [ ] A mouse. It's optional and this guide assumes you don't use one.
 
 ### Table of Contents
 
 * [Chapter 1 ~ Installation and setup](./install.md)
-* [Chapter 2 ~ Network connection](./network.md)
+* Chapter 2 ~ Network connection and basic tools
 * Chapter 3 ~ Installing Sway
 * Chapter 4 ~ Ricing
