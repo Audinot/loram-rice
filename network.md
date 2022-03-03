@@ -116,7 +116,8 @@ go!
 
 ---
 
-Chapter 3 ~ Installing Sway and basic tools
+[Chapter 3 ~ Installing Sway and basic tools](./sway.md)
+
 
 
 

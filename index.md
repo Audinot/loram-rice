@@ -39,5 +39,5 @@ You will not need:
 
 * [Chapter 1 ~ Installation and setup](./install.md)
 * [Chapter 2 ~ Network connection](./network.md)
-* Chapter 3 ~ Installing Sway
+* [Chapter 3 ~ Installing Sway and basic tools](./sway.md)
 * Chapter 4 ~ Ricing
